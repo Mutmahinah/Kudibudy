@@ -75,12 +75,12 @@ KudiBuddy integrates **Google Gemini AI** via secure API connections:
 
 ---
 
-##🔗 Project Link
+###🔗 **Project Link**
 👉 Live Demo Here
 👉 Project: https://kudibuddy-muttyisreal.streamlit.app/
 
 ---
 
-## 🤝 Contributors
+### 🤝 **Contributors**
 🔹Mutmahinah Jimoh-Ademola
 🔹Israel Lucky Adoimoisili
