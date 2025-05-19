@@ -1,11 +1,5 @@
 # 💰 KudiBuddy – AI-Powered Personal Finance Assistant  
 
-## 🚀 Live Demo & Documentation  
-| Feature                          | Demo Video / Docs |  
-|-----------------------------------|------------------|  
-| 📊 **AI Budget Breakdown**  | ![Watch Video](#) |  
-| 🎯 **Savings Goal Tracker**  | ![Read Docs](#) |  
-| 🧠 **AI-Generated Financial Wisdom**  | 🚧 Coming Soon |  
 
 ---
 
