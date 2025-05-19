@@ -70,7 +70,7 @@ KudiBuddy integrates **Google Gemini AI** via secure API connections:
 ---
 
 ### 🔗 **Project Link**
-👉 Live Demo Here
+👉 Live Demo Here https://drive.google.com/file/d/1XIBexx3h1axM6cyIV3LdyqTXp11SaTlb/view?usp=drivesdk
 👉 Project: https://kudibuddy-muttyisreal.streamlit.app/
 
 ---
